@@ -1,0 +1,19 @@
+.main {
+  margin: 5px 20px;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+.home {
+  margin: 2px 20px;
+}
+
+/* .content {
+  width: 200px;
+  text-overflow: "ellipsis";
+
+  white-space: nowrap;
+  overflow: hidden;
+} */
